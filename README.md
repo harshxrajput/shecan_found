@@ -1,20 +1,14 @@
-<<<<<<< HEAD
-# shecan_found
+# she can foundation Fund Raising Portal
 
-A new Flutter project.
+A Flutter-based fundraising intern dashboard app designed to track donations, referrals, rewards, and leaderboard rankings.
 
-## Getting Started
+✨ Features:
+- Clean, responsive UI with warm orange-red theme  
+- Login & Sign-Up screens (UI only)
+- Dashboard with referral code & donation stats
+- Leaderboard & announcements
+- Reward unlock system
 
-This project is a starting point for a Flutter application.
+Built with Flutter, Google Fonts, and clean widget architecture.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# shecan_found
->>>>>>> e42b5eb2fb1314c829fcc791a05cf0e22093fec8
+Some Screenshots 
