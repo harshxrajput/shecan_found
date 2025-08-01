@@ -76,7 +76,6 @@ class LoginScreen extends StatelessWidget {
       ),
     );
   }
-
   Widget _inputField(String label, {bool isPassword = false}) {
     return TextField(
       obscureText: isPassword,
@@ -92,5 +91,6 @@ class LoginScreen extends StatelessWidget {
         contentPadding: const EdgeInsets.symmetric(vertical: 18, horizontal: 16),
       ),
     );
+
   }
 }
