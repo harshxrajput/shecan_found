@@ -13,14 +13,23 @@ Built with Flutter, Google Fonts, and clean widget architecture.
 
 ## App Screenshots
 
-### 1. Login Screen
-![Login](assets/images/screenshot1.png)
-
-### 2. Dashboard
-![Dashboard](assets/images/screenshot2.png)
-
-### 3. Leaderboard
-![Leaderboard](assets/images/screenshot_3.png)
-
-### 4. Announcements
-![Announcements](assets/images/screenshot_4.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/images/Screenshot1.png?raw=true" alt="Login" width="250"/>
+      <br><b>Login Screen</b>
+    </td>
+    <td align="center">
+      <img src="assets/images/Screenshot2.png?raw=true" alt="Dashboard" width="250"/>
+      <br><b>Dashboard</b>
+    </td>
+    <td align="center">
+      <img src="assets/images/Screenshot_3.png?raw=true" alt="Leaderboard" width="250"/>
+      <br><b>Leaderboard</b>
+    </td>
+    <td align="center">
+      <img src="assets/images/Screenshot_4.png?raw=true" alt="Announcements" width="250"/>
+      <br><b>Announcements</b>
+    </td>
+  </tr>
+</table>
