@@ -14,13 +14,13 @@ Built with Flutter, Google Fonts, and clean widget architecture.
 ## App Screenshots
 
 ### 1. Login Screen
-![Login](assets/screenshot2.png)
+![Login](assets/images/screenshot1.png)
 
 ### 2. Dashboard
-![Dashboard](assets/screenshot1.png)
+![Dashboard](assets/images/screenshot2.png)
 
 ### 3. Leaderboard
-![Leaderboard](assets/screenshot3.png)
+![Leaderboard](assets/images/screenshot_3.png)
 
 ### 4. Announcements
-![Announcements](assets/screenshot4.png)
+![Announcements](assets/images/screenshot_4.png)
